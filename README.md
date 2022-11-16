@@ -2,7 +2,7 @@
 <p align="center">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -16,14 +16,12 @@
 <p align="center">
 <picture>
 <source 
-  srcset="[https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox)"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox"
 />
 <source
-  srcset="[https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox)"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox"
 />
-<img src="[https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox" />
 </picture>
 </p>
 <!--
