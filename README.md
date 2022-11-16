@@ -3,7 +3,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox" width="600" alt="ovi">
 </p>
 <p>&nbsp;
-<img alt="ovi" height="100" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox">
+<img alt="ovi" height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox">
 </p>
 
 
