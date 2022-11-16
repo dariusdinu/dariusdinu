@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/dariusdinu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariusdinu&repo=github-readme-stats" />
+<a href="[https://github.com/dariusdinu/github-readme-stats](https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/dariusdinu/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariusdinu&repo=convoychat" />
