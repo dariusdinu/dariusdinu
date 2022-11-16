@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox" width="550" alt="ovi">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox" width="400" alt="ovi">
 </p>
 <p>&nbsp;
-<img alt="ovi" align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox">
+<img alt="ovi" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox">
 </p>
 
 
