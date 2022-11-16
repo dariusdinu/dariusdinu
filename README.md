@@ -1,12 +1,12 @@
 ### Hi there 👋
-<p display="grid">
+<div display="grid">
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox">
   </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox">
   </div>
-</p>
+</div>
 
 
 <!--
