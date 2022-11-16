@@ -1,17 +1,13 @@
 ### Hi there 👋
+<div align="center"> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox)
+</div>
+      
 
-<a href="[https://github.com/dariusdinu/github-readme-stats](https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/dariusdinu/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dariusdinu&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dariusdinu/dariusdinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox)      
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
