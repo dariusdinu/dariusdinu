@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">
+<p align="left">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox"
