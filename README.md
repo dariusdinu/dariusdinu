@@ -1,6 +1,8 @@
 ### Hi there 👋
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox">
+</p>
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox">
 </p>
 
