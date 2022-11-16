@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p layout="grid">
+<p layout="flex">
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox">
 </p>
