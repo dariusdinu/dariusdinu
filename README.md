@@ -1,20 +1,6 @@
 ### Hi there 👋
 <p align="left">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox"
-  media="(prefers-color-scheme: dark)"
-/>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusdinu&layout=compact&theme=gruvbox" />
-</picture>
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=dariusdinu&show_icons=true&theme=gruvbox">
 </p>
 
 <!--
